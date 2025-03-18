@@ -1,0 +1,5 @@
+professor_id,name,email,rank,course_id
+P100,Dr. Chan,chan@edu.com,Professor Chan,DATA500
+P101,Reighy,reighy@edu.com,Senior,DATA200
+P102,Michael,michael@edu.com,Senior,DATA489
+P103,Obarski,obarski@edu.com,Associate,DATA300
